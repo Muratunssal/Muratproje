@@ -2,13 +2,13 @@
 
 Aşağıdaki Python kütüphaneleri projenin çalışması için gereklidir:
 
-- **scapy**  
+ **scapy**  
   Ağ paketlerini oluşturmak, dinlemek ve manipüle etmek için kullanılır (ARP, DNS, DHCP vb.).
 
-- **flask**  
+ **flask**  
   Sahte web sunucusu (phishing/simulation) arayüzü oluşturmak için.
 
-- **dnslib**  
+ **dnslib**  
   Gelişmiş DNS proxy (örneğin DNSChef benzeri) oluşturmak için.
 
 ---
