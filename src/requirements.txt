@@ -1,10 +1,13 @@
 ✅ requirements.txt
 
-Kopyala
-Düzenle
+---
+
 scapy
 flask
 dnslib
+
+---
+
 Açıklamalar:
 scapy: Ağ paketlerini oluşturmak, dinlemek ve manipüle etmek için kullanılır (ARP, DNS, DHCP vs.).
 
@@ -16,6 +19,4 @@ Kurulum Komutu:
 Proje klasörüne gidip terminale şu komutu yazman yeterli:
 
 bash
-Kopyala
-Düzenle
 pip install -r requirements.txt
