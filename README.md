@@ -97,6 +97,8 @@ http://127.0.0.1:5000
 
 🌐 HTTPS yapılandırması doğrulanır
 
+---
+
 🤝 Katkıda Bulunma / Contributing
 Topluluk katkılarına açığız! Katkı sağlamak için aşağıdaki adımları izleyin:
 
@@ -114,13 +116,19 @@ PR (Pull Request) oluşturun 🧩
 
 Lütfen CONTRIBUTING.md dosyasındaki standartlara uyduğunuzdan emin olun.
 
+---
+
 📜 Lisans / License
 Bu proje MIT Lisansı ile lisanslanmıştır.
 Açık, şeffaf ve özgür kullanım için!
 
+---
+
 📬 İletişim / Contact
 Proje Sorumlusu: Murat Enes Ünsal
 🔗 Hata mı buldunuz? Issue açın
+
+---
 
 📌 Gelecek Planlar / Roadmap
 📑 Otomatik PDF rapor oluşturma
@@ -130,6 +138,8 @@ Proje Sorumlusu: Murat Enes Ünsal
 🧪 API Token güvenliği analizi
 
 🐳 Docker destekli deploy sistemi
+
+---
 
 ⚠️ Güvenliğinizi test edin ama sistemleri riske atmayın.
 Bilinçli analiz = Güçlü savunma.
