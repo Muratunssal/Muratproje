@@ -2,7 +2,7 @@
 
 # 🛡️ Web Security Analyzer
 
-> **Web uygulamalarınızı savunmaya hazır mısınız?**  
+ **Web uygulamalarınızı savunmaya hazır mısınız?**  
 Bu proje, modern web uygulamalarının güvenliğini test etmek ve açıklarını analiz etmek için geliştirilmiş kapsamlı bir analiz aracıdır. 2025 sonrası güvenlik tehditlerine karşı hazırlıklı olmak için, yapay zekâ destekli ve dinamik analizlerle donatılmıştır.
 
 ---
