@@ -63,7 +63,7 @@ Web Security Analyzer aşağıdaki modern güvenlik prensiplerine ve 2025 trendl
 ## ⚙️ Kurulum / Installation
 
 ### 📥 1. Depoyu Klonlayın
-```bash
+``bash
 git clone https://github.com/kullaniciadi/web-security-analyzer.git
 cd web-security-analyzer
 🧪 2. Sanal Ortam Oluşturun
