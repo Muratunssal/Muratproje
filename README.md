@@ -30,7 +30,7 @@ Bu proje, modern web uygulamalarının güvenliğini test etmek ve açıkların�
 
 ## 👨‍💻 Ekip / Team
 
-**👤 Murat Enes Ünsal – 232019XXXX**  
+**👤 Murat Enes Ünsal – 2320191011 
 - Web uygulama güvenliği analizi  
 - Kod mimarisi & geliştirme  
 - Dokümantasyon & araştırma  
