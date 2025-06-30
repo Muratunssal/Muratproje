@@ -1,4 +1,5 @@
 🔐 Web Security Analyzer Projesi İçin ✨ Etkili Prompt Oluşturma Rehberi ✨
+
 Bu rehber, Web Security Analyzer projen kapsamında derinlemesine araştırma yapmak ve bu araştırmaları adım adım, uygulanabilir bir yol haritasına dönüştürmek için Gemini ve GROK THINK (veya benzeri gelişmiş planlama/yol haritası araçları) için nasıl etkili prompt'lar hazırlayacağını detaylı şekilde açıklar.
 
 🚀 Prompt 1: Gemini ile Derinlemesine Güvenlik Araştırması (Deep Research)
