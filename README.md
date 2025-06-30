@@ -63,8 +63,8 @@ Web Security Analyzer aşağıdaki modern güvenlik prensiplerine ve 2025 trendl
 ## ⚙️ Kurulum / Installation
 
 ### 📥 1. Depoyu Klonlayın
-``bash
-git clone https://github.com/kullaniciadi/web-security-analyzer.git
+```bash
+git clone https://github.com/Muratunssal/Muratproje.git
 cd web-security-analyzer
 🧪 2. Sanal Ortam Oluşturun
 bash
@@ -86,6 +86,7 @@ python interface/app.py
 🌐 Tarayıcıdan Erişim
 Aşağıdaki adrese giderek aracı kullanmaya başlayabilirsiniz:
 http://127.0.0.1:5000
+```
 
 🛡️ Güvenlik Özellikleri
 🔐 Tüm testler pasif modda çalışarak sistemi etkilemez
